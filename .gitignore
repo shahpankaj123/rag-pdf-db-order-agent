@@ -1,0 +1,4 @@
+.env
+env
+java_rag_system_from_pdf/chroma_db
+personal_my_cv_based_rag/chroma_db
